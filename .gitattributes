@@ -1,0 +1,7 @@
+*.blend filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
+floor.blend1 filter=lfs diff=lfs merge=lfs -text
+floor1.glb filter=lfs diff=lfs merge=lfs -text
+floor.glb filter=lfs diff=lfs merge=lfs -text
+7364547.6794de2689c80/VENICE[[:space:]]OFFICE.max filter=lfs diff=lfs merge=lfs -text
